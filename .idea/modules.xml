@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProjecySetup-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ProjecySetup-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SBTSetupSparkScala.iml" filepath="$PROJECT_DIR$/.idea/modules/SBTSetupSparkScala.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SBTSetupSparkScala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/SBTSetupSparkScala-build.iml" />
     </modules>
   </component>
 </project>

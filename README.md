@@ -16,3 +16,4 @@
    2. ![img_3.png](img_3.png)
 
 9. Medium Article which helped. https://medium.com/@ariellemesser/building-a-scala-spark-library-with-sbt-and-installing-on-databricks-acd5d8715c4
+10. SetupRelatedFiles Folder removed as it was having files more than 200MB which typical GIT doesn't support. 

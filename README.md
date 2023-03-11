@@ -14,3 +14,5 @@
 8. Not mandatory setting but can be made to avoid some errors
    1. System.setProperty("hadoop.home.dir", "C:\\winutils")(provided in SetupRelatedFiles) use this in code and save 
    2. ![img_3.png](img_3.png)
+
+9. Medium Article which helped. https://medium.com/@ariellemesser/building-a-scala-spark-library-with-sbt-and-installing-on-databricks-acd5d8715c4
